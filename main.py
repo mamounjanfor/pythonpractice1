@@ -21,6 +21,6 @@ celsius = float((5/9)*(feh - 32))
 print(celsius)
 
 # convert hex to decimal
-hex = int(input("enter a hex digit: "))
+print("hello")
 
 
