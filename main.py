@@ -14,6 +14,13 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+# convert F to C
 feh = int(input("enter the degree in f: "))
 celsius = float((5/9)*(feh - 32))
 print(celsius)
+
+# convert hex to decimal
+hex = int(input("enter a hex digit: "))
+
+
